@@ -1,0 +1,6 @@
+{
+  "name": "Vortex Engine",
+  "description": "A high-performance, lightweight 2D game engine built with React and Canvas API. Features a component-based architecture, physics, and built-in sprite management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
